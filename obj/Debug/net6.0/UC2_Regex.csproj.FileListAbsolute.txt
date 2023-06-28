@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC2_Regex\bin\Debug\net6.0\UC2_Regex.exe
+D:\My Bridgelab\UC2_Regex\bin\Debug\net6.0\UC2_Regex.deps.json
+D:\My Bridgelab\UC2_Regex\bin\Debug\net6.0\UC2_Regex.runtimeconfig.json
+D:\My Bridgelab\UC2_Regex\bin\Debug\net6.0\UC2_Regex.dll
+D:\My Bridgelab\UC2_Regex\bin\Debug\net6.0\UC2_Regex.pdb
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.AssemblyInfo.cs
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.dll
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\refint\UC2_Regex.dll
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.pdb
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\UC2_Regex.genruntimeconfig.cache
+D:\My Bridgelab\UC2_Regex\obj\Debug\net6.0\ref\UC2_Regex.dll
