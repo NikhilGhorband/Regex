@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC1_RegexString\bin\Debug\net6.0\UC1_RegexString.exe
+D:\My Bridgelab\UC1_RegexString\bin\Debug\net6.0\UC1_RegexString.deps.json
+D:\My Bridgelab\UC1_RegexString\bin\Debug\net6.0\UC1_RegexString.runtimeconfig.json
+D:\My Bridgelab\UC1_RegexString\bin\Debug\net6.0\UC1_RegexString.dll
+D:\My Bridgelab\UC1_RegexString\bin\Debug\net6.0\UC1_RegexString.pdb
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.AssemblyInfo.cs
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.dll
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\refint\UC1_RegexString.dll
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.pdb
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\UC1_RegexString.genruntimeconfig.cache
+D:\My Bridgelab\UC1_RegexString\obj\Debug\net6.0\ref\UC1_RegexString.dll
