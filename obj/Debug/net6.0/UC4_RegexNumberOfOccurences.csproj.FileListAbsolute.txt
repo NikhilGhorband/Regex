@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\bin\Debug\net6.0\UC4_RegexNumberOfOccurences.exe
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\bin\Debug\net6.0\UC4_RegexNumberOfOccurences.deps.json
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\bin\Debug\net6.0\UC4_RegexNumberOfOccurences.runtimeconfig.json
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\bin\Debug\net6.0\UC4_RegexNumberOfOccurences.dll
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\bin\Debug\net6.0\UC4_RegexNumberOfOccurences.pdb
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.AssemblyInfo.cs
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.dll
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\refint\UC4_RegexNumberOfOccurences.dll
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.pdb
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\UC4_RegexNumberOfOccurences.genruntimeconfig.cache
+D:\My Bridgelab\UC4_RegexNumberOfOccurences\obj\Debug\net6.0\ref\UC4_RegexNumberOfOccurences.dll
