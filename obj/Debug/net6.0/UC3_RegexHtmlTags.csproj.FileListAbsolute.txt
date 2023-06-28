@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC3_RegexHtmlTags\bin\Debug\net6.0\UC3_RegexHtmlTags.exe
+D:\My Bridgelab\UC3_RegexHtmlTags\bin\Debug\net6.0\UC3_RegexHtmlTags.deps.json
+D:\My Bridgelab\UC3_RegexHtmlTags\bin\Debug\net6.0\UC3_RegexHtmlTags.runtimeconfig.json
+D:\My Bridgelab\UC3_RegexHtmlTags\bin\Debug\net6.0\UC3_RegexHtmlTags.dll
+D:\My Bridgelab\UC3_RegexHtmlTags\bin\Debug\net6.0\UC3_RegexHtmlTags.pdb
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.AssemblyInfo.cs
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.dll
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\refint\UC3_RegexHtmlTags.dll
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.pdb
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\UC3_RegexHtmlTags.genruntimeconfig.cache
+D:\My Bridgelab\UC3_RegexHtmlTags\obj\Debug\net6.0\ref\UC3_RegexHtmlTags.dll
