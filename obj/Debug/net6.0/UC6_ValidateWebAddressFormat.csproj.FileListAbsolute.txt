@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\bin\Debug\net6.0\UC6_ValidateWebAddressFormat.exe
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\bin\Debug\net6.0\UC6_ValidateWebAddressFormat.deps.json
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\bin\Debug\net6.0\UC6_ValidateWebAddressFormat.runtimeconfig.json
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\bin\Debug\net6.0\UC6_ValidateWebAddressFormat.dll
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\bin\Debug\net6.0\UC6_ValidateWebAddressFormat.pdb
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.AssemblyInfo.cs
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.dll
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\refint\UC6_ValidateWebAddressFormat.dll
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.pdb
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\UC6_ValidateWebAddressFormat.genruntimeconfig.cache
+D:\My Bridgelab\UC6_ValidateWebAddressFormat\obj\Debug\net6.0\ref\UC6_ValidateWebAddressFormat.dll
