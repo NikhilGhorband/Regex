@@ -1,0 +1,15 @@
+D:\My Bridgelab\UC5_RegexValidFileName\bin\Debug\net6.0\UC5_RegexValidFileName.exe
+D:\My Bridgelab\UC5_RegexValidFileName\bin\Debug\net6.0\UC5_RegexValidFileName.deps.json
+D:\My Bridgelab\UC5_RegexValidFileName\bin\Debug\net6.0\UC5_RegexValidFileName.runtimeconfig.json
+D:\My Bridgelab\UC5_RegexValidFileName\bin\Debug\net6.0\UC5_RegexValidFileName.dll
+D:\My Bridgelab\UC5_RegexValidFileName\bin\Debug\net6.0\UC5_RegexValidFileName.pdb
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.csproj.AssemblyReference.cache
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.AssemblyInfoInputs.cache
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.AssemblyInfo.cs
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.csproj.CoreCompileInputs.cache
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.dll
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\refint\UC5_RegexValidFileName.dll
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.pdb
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\UC5_RegexValidFileName.genruntimeconfig.cache
+D:\My Bridgelab\UC5_RegexValidFileName\obj\Debug\net6.0\ref\UC5_RegexValidFileName.dll
